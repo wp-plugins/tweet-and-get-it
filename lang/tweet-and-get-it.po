@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tweet & Get it\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-08 06:15+0200\n"
+"PO-Revision-Date: 2011-06-15 22:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tweet & Get it <contact@tweetandgetit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: D:\\WP_Plugins\\Tweegi\\Tweegi_v1.6_Release\\tweetandgetit-plugin\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: D:\\WP_Plugins\\Tweegi\\Tweegi_v1.6_Release\\tweetandgetit-plugin\n"
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:50
+msgid "Tweet & Get it !"
+msgstr "Tweet & Get it !"
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:51
+msgid "Make your button"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:52
+msgid "Manage your buttons"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:196
+msgid "Button name"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:197
+msgid "Shortcode"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:198
+msgid "File"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:199
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:225
+msgid "Edit"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:200
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:226
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:245
+msgid "Delete"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:244
+msgid "Actions"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:248
+msgid "Apply to selected"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:255
+msgid "Go to first page"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:256
+msgid "Go to previous page"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:261
+msgid "Go to page"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:265
+msgid "current page"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:271
+msgid "Go to next page"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:272
+msgid "Go to last page"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:358
+msgid "Your button is ready"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:359
+msgid "copy / paste this code in your posts, pages and widgets"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit-plugin.php:19
+msgid " requires php 5 or a greater version to work."
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:5
+msgid "Update your button"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:25
+msgid "Create your button"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:51
+msgid "ex: Just downloaded my twitter background for free from http://viuu.co.uk @pointofviuu.Check it out!"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:91
+msgid "File "
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:92
+msgid " was uploaded successfully!"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:100
+msgid "There was an error during file upload"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:149
+msgid "Name of your button shouldn't be empty"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:159
+msgid "Twitter username"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:168
+msgid "Type your Twitter username without the"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:177
+msgid "Twitter username can't contain @ # -"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:197
+msgid "Location of your file"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:202
+msgid "Tweet"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:209
+msgid "Following fields are required"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:262
+msgid "Your Twitter username (Required)"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:265
+msgid "Enter the twitter account you want the user to follow in exchange of downloading your file. At the completion of the Tweet&Get it! process your visitor becomes follower of the Twitter account you defined."
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:271
+msgid "Your Tweet (Required)"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:283
+msgid "Write the tweet you want the user to send in exchange of downloading your file. This tweet will be sent automatically each time a visitor completes the Tweet&Get it! process."
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:286
+msgid "Old file"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:291
+msgid "Your file"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:297
+msgid "Upload your file"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:302
+msgid "Loading"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:304
+msgid "Or"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:310
+msgid "The URL of your file (Required if you don't want to upload your file)"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:313
+msgid "Enter the path of your file."
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:317
+msgid "Name of your button (Required)"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:343
+msgid "About"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:344
+msgid "Help"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:347
+msgid ""
+"Tweet&Get it! is an automatic process to get Twitter followers in exchange of a downloadable file. Get your shortcodes by setting up your Tweet&Get it! button.\n"
+"Copy/paste the shortcode into posts, pages and widgets. \n"
+"Your Tweet&Get it! button will be immediately available to your visitors."
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:350
+msgid "Tweet&Get it! is fully recommended to share content such as: music, ebooks, photos, wallpapers, promotional codes, coupons, typography, CMS themes, videos, software, tutorials, web ressources, icons, PSD brushes ..."
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:351
+msgid "Get a new follower with each download !"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:353
+msgid "HELP"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:355
+msgid "Contact us"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:356
+msgid "Support"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:357
+msgid "FAQ"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin_list.php:131
+msgid "Manage Your buttons"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin_list.php:134
+msgid "Create a new button"
+msgstr ""
+
+#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin_list.php:159
+msgid "powered by"
+msgstr ""
+
