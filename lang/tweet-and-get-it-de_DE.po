@@ -2,245 +2,244 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tweet & Get it\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-08 06:15+0200\n"
-"PO-Revision-Date: 2011-06-14 17:15+0100\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2011-07-27 15:16+0100\n"
+"PO-Revision-Date: 2011-07-27 15:17+0100\n"
+"Last-Translator: Tweet And Get it <contact@tweetandgetit.com>\n"
 "Language-Team: Tweet & Get it <contact@tweetandgetit.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __\n"
-"X-Poedit-Basepath: D:\\WP_Plugins\\Tweegi\\Tweegi_v1.6_Release\\tweetandgetit-plugin\n"
+"X-Poedit-Basepath: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it\n"
 "X-Poedit-Language: English\n"
-"X-Poedit-SearchPath-0: D:\\WP_Plugins\\Tweegi\\Tweegi_v1.6_Release\\tweetandgetit-plugin\n"
+"X-Poedit-SearchPath-0: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it\n"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:50
-msgid "Tweet & Get it !"
-msgstr "Tweet & Get it !"
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:50
+msgid "Tweet&Get it!"
+msgstr "Tweet&Get it !"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:51
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:51
 msgid "Make your button"
 msgstr "Button einrichten"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:52
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:52
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin_list.php:131
 msgid "Manage your buttons"
 msgstr "Buttons verwalten"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:196
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:188
 msgid "Button name"
 msgstr "Button Name"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:197
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:189
 msgid "Shortcode"
 msgstr "Shortcode"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:198
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:190
 msgid "File"
 msgstr "Datei"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:199
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:225
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:191
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:217
 msgid "Edit"
 msgstr "Bearbeiten"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:200
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:226
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:245
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:192
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:218
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:237
 msgid "Delete"
 msgstr "L&ouml;schen"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:244
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:236
 msgid "Actions"
 msgstr "Aktionen"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:248
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:240
 msgid "Apply to selected"
 msgstr "Auf Auswahl anwenden"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:255
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:247
 msgid "Go to first page"
 msgstr "Zur ersten Seite"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:256
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:248
 msgid "Go to previous page"
 msgstr "Zur vorherigen Seite"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:261
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:253
 msgid "Go to page"
 msgstr "Zur Seite"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:265
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:257
 msgid "current page"
 msgstr "Aktuelle Seite"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:271
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:263
 msgid "Go to next page"
 msgstr "Zur n&auml;chsten Seite"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:272
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:264
 msgid "Go to last page"
 msgstr "Zur letzten Seite"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:358
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:350
 msgid "Your button is ready"
 msgstr "Ihr Button ist bereit"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/engine.php:359
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/engine.php:351
 msgid "copy / paste this code in your posts, pages and widgets"
 msgstr "Diesen Code in ihre Posts, Seiten, Wigets kopieren/einf&uuml;gen"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit-plugin.php:19
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit-plugin.php:36
 msgid " requires php 5 or a greater version to work."
 msgstr "erfordert php 5 oder h&ouml;her"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:5
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:5
 msgid "Update your button"
 msgstr "Button updaten "
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:25
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:25
 msgid "Create your button"
 msgstr "Erstellen Sie ihren Button"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:51
-msgid "ex: Just downloaded my twitter background for free from http://viuu.co.uk @pointofviuu.Check it out!"
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:51
+msgid "ex: Just downloaded my twitter background for free from http://viuu.co.uk @pointofviuu. Check it out!"
 msgstr "z.B. Habe gerade einen gratis twitter background von http://viuu.co.uk heruntergeladen @pointofviuu. Seht es euch an!"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:91
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:91
 msgid "File "
 msgstr "Datei"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:92
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:92
 msgid " was uploaded successfully!"
 msgstr "wurde erfolgreich hochgeladen!"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:100
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:100
 msgid "There was an error during file upload"
 msgstr "Es ist ein Fehler beim Hochladen der Datei aufgetreten"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:149
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:149
 msgid "Name of your button shouldn't be empty"
 msgstr "Button Name darf nicht leer sein"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:159
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:159
 msgid "Twitter username"
 msgstr "Twitter Benutzename"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:168
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:168
 msgid "Type your Twitter username without the"
 msgstr "Twitter Benutzername eingeben ohne"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:177
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:177
 msgid "Twitter username can't contain @ # -"
 msgstr "Twitter Benutzename darf kein &#64; &#35; &#45; enthalten"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:197
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:197
 msgid "Location of your file"
 msgstr "Pfad Ihrer Datei"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:202
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:202
 msgid "Tweet"
 msgstr "Tweet"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:209
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:209
 msgid "Following fields are required"
 msgstr "Folgende Felder sind Pflicht"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:262
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:262
 msgid "Your Twitter username (Required)"
 msgstr "Ihr Twitter Benutzename (erforderlich)"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:265
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:265
 msgid "Enter the twitter account you want the user to follow in exchange of downloading your file. At the completion of the Tweet&Get it! process your visitor becomes follower of the Twitter account you defined."
 msgstr "Eingabe des Twitter Kontos, das im Gegenzug f&uuml;r das Herunterladen der Datei, gefollowed werden soll. Nach der Vollendung des Tweet&Get it! Vorgangs wird Ihr Besucher zum Follower ihres vorherig eingegebenen Twitter Kontos."
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:271
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:271
 msgid "Your Tweet (Required)"
 msgstr "Ihr Tweet (erforderlich)"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:283
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:283
 msgid "Write the tweet you want the user to send in exchange of downloading your file. This tweet will be sent automatically each time a visitor completes the Tweet&Get it! process."
 msgstr "Verfassen Sie den Tweet den der Benutzer im Gegenzug f&uuml;r das Herunterladen ihrer Datei sendet. Dieser Tweet wird automatisch nach Verfollst&auml;ndigung des Tweet&Get it! Vorgangs gesendet."
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:286
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:286
 msgid "Old file"
 msgstr "Alte Datei"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:291
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:291
 msgid "Your file"
 msgstr "Ihre Datei"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:297
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:297
 msgid "Upload your file"
 msgstr "Datei hochladen"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:302
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:302
 msgid "Loading"
 msgstr "Ladevorgang"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:304
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:304
 msgid "Or"
 msgstr "Oder"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:310
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:310
 msgid "The URL of your file (Required if you don't want to upload your file)"
 msgstr "URL Ihrer Datei (erforderlich wenn Sie ihre Datei nicht hochladen)"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:313
-msgid "Enter the path of your file."
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:313
+msgid "Enter the path of your file. "
 msgstr "Geben Sie ihren Dateipfad ein"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:317
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:317
 msgid "Name of your button (Required)"
 msgstr "Name Ihres Buttons (erforderlich)"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:343
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:343
 msgid "About"
 msgstr "Impressum"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:344
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:344
 msgid "Help"
 msgstr "Hilfe"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:347
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:347
 msgid ""
 "Tweet&Get it! is an automatic process to get Twitter followers in exchange of a downloadable file. Get your shortcodes by setting up your Tweet&Get it! button.\n"
 "Copy/paste the shortcode into posts, pages and widgets. \n"
 "Your Tweet&Get it! button will be immediately available to your visitors."
 msgstr "Tweet&Get it! ist ein automatischer Vorgang, der Ihnen erm&ouml;glicht Twitter Follower im Gegenzug einer, von Ihnen angebotenen, Datei zu erhalten. Erhalten Sie ihre shortcodes indem Sie ihren Tweet&Get it! Button einrichten. /n Kopieren und f&uuml;gen Sie den schortcode in ihre Posts, Seiten und Wigets ein. /n Ihr Tweet&Get it! Button steht umgehend ihren Besuchern zur Verf&uuml;gung."
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:350
-msgid "Tweet&Get it! is fully recommended to share content such as: music, ebooks, photos, wallpapers, promotional codes, coupons, typography, CMS themes, videos, software, tutorials, web ressources, icons, PSD brushes ..."
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:350
+msgid "Tweet&Get it! is fully recommended to share content such as: music, ebooks, photos, wallpapers, promotional codes, coupons, typography, CMS themes, videos, software, tutorials, web ressources, icons, PSD brushes..."
 msgstr "Tweet&Get it! Ist vollends empfohlend um diverse Inhalte zu teilen wie z.B.: Musik, eBooks, Fotos, Hintergrundbilder, Gutscheine, Typografien, CMS Themes, Videos, Software, Tutorials, Web Ressourcen, Icons, Photoshop Pinsel ...  "
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:351
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:351
 msgid "Get a new follower with each download !"
 msgstr "Erhalten Sie einen neuen Follower mit jedem Download!"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:353
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:353
 msgid "HELP"
 msgstr "HILFE"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:355
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:355
 msgid "Contact us"
 msgstr "Kontaktieren Sie uns"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:356
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:356
 msgid "Support"
 msgstr "Support"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin.php:357
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin.php:357
 msgid "FAQ"
 msgstr "H&auml;fig gestellte Fragen (FAQ)"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin_list.php:131
-msgid "Manage Your buttons"
-msgstr "Button Verwaltung"
-
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin_list.php:134
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin_list.php:134
 msgid "Create a new button"
 msgstr "Neuen Button einrichten"
 
-#: D:\WP_Plugins\Tweegi\Tweegi_v1.6_Release\tweetandgetit-plugin/tweetandgetit_admin_list.php:159
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/WORDPRESS.ORG/1.1/tweet-and-get-it/tweetandgetit_admin_list.php:159
 msgid "powered by"
 msgstr "powered by"
 
+#~ msgid "Manage Your buttons"
+#~ msgstr "Button Verwaltung"

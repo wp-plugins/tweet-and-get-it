@@ -98,15 +98,7 @@ function tweegi_content_hook($content)
 
 function tweegi_shortcode_handler( $atts ) {
 
-?>
-<style type="text/css">
-<!--
-@import url("<?echo TWEEGI_URLPATH."/"?>css/buttons.css");
-@import url("<?echo TWEEGI_URLPATH."/"?>css/demo.css");
--->
-</style>
 
- <?
 	global $tbl_tweetandgetit_buttons,$wpdb;
 	extract( shortcode_atts( array(
 		'name' => 'something',
@@ -130,7 +122,7 @@ function tweegi_shortcode_handler( $atts ) {
 		
 		$lang = get_bloginfo( "language", "raw" );
 		$data=array("tweet"=>$row[0]->tweet, "file"=>$row[0]->file_path, "blogger"=>$row[0]->twitter_name, "domain"=>$_SERVER['HTTP_HOST'], "btnname"=>$row[0]->button_name,"language"=>$lang);
-		$encoded=urlencode(base64_encode(serialize($data)));
+		$encoded=urlencode(base64_encode(utf8_encode(serialize($data))));
 		$tweet = urlencode(base64_encode($row[0]->tweet));
 		$file = urlencode(base64_encode($row[0]->file_path));
 		$blogger= urlencode(base64_encode($row[0]->twitter_name));

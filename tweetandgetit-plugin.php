@@ -2,7 +2,7 @@
 /**
  Plugin Name: Tweet&Get It! 
  Plugin URI: http://tweetandgetit.com
- Version: 1.00
+ Version: 1.1
  Description: Tweet&Get it! is an automatic process to get Twitter followers in exchange of a downloadable file. 
  Author: Tweet & Get is powered by Viuu / Via Internet UK LTD
  Author URI: http://tweetandgetit.com
@@ -75,7 +75,8 @@ add_action ('init', 'tweegi_plugin_init');
 register_activation_hook(__FILE__, 'tweegi_activate');
 register_deactivation_hook(__FILE__,'tweegi_deactivate');
 
-
+wp_enqueue_style( 'tweegiStylesheet3', WP_PLUGIN_URL . '/tweet-and-get-it/css/buttons.css' );
+wp_enqueue_style( 'tweegiStylesheet3', WP_PLUGIN_URL . '/tweet-and-get-it/css/demo.css' );
 
 add_action('wp_ajax_tweegi_createbutton_action', 'tweegi_action_callback');
 add_action('wp_ajax_tweegi_buttonlist', 'tweegi_buttons_list_callback');
