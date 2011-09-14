@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tweet & Get it\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-09-14 11:17+0100\n"
-"PO-Revision-Date: 2011-09-14 11:19+0100\n"
+"POT-Creation-Date: 2011-09-14 11:44+0100\n"
+"PO-Revision-Date: 2011-09-14 11:45+0100\n"
 "Last-Translator: Tweet And Get it <contact@tweetandgetit.com>\n"
 "Language-Team: Tweet & Get it <contact@tweetandgetit.com>\n"
 "MIME-Version: 1.0\n"
@@ -15,6 +15,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it\n"
 
 #: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:50
+#, fuzzy
 msgid "Tweet&Get it!"
 msgstr "Tweet & Get it !"
 
@@ -103,6 +104,7 @@ msgid "Create your button"
 msgstr "ボタンを作る"
 
 #: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:51
+#, fuzzy
 msgid "ex: Just downloaded my twitter background for free from http://viuu.co.uk @pointofviuu. Check it out!"
 msgstr "例：http://viuu.co.uk で無料ツイッターの背景をダウンロードしました。 @pointofviuu。要チェック！"
 
