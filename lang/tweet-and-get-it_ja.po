@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tweet & Get it\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-14 11:17+0100\n"
+"PO-Revision-Date: 2011-09-14 11:19+0100\n"
+"Last-Translator: Tweet And Get it <contact@tweetandgetit.com>\n"
+"Language-Team: Tweet & Get it <contact@tweetandgetit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it\n"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:50
+msgid "Tweet&Get it!"
+msgstr "Tweet & Get it !"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:51
+msgid "Make your button"
+msgstr "ボタンを作る"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:52
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin_list.php:131
+msgid "Manage your buttons"
+msgstr "ボタンを管理する"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:188
+msgid "Button name"
+msgstr "ボタンの名前"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:189
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:190
+msgid "File"
+msgstr "ファイル"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:191
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:217
+msgid "Edit"
+msgstr "編集"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:192
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:218
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:237
+msgid "Delete"
+msgstr "削除"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:236
+msgid "Actions"
+msgstr "動作"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:240
+msgid "Apply to selected"
+msgstr "選択して適用"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:247
+msgid "Go to first page"
+msgstr "最初のページへ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:248
+msgid "Go to previous page"
+msgstr "前のページへ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:253
+msgid "Go to page"
+msgstr "ページへ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:257
+msgid "current page"
+msgstr "現在のページ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:263
+msgid "Go to next page"
+msgstr "次のページへ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:264
+msgid "Go to last page"
+msgstr "最後のページへ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:350
+msgid "Your button is ready"
+msgstr "ボタンの準備ができました"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/engine.php:351
+msgid "copy / paste this code in your posts, pages and widgets"
+msgstr "このコードを投稿、ページ、またはウィジェットにコピー＆ペ−ストします"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit-plugin.php:36
+msgid " requires php 5 or a greater version to work."
+msgstr "が機能するためには、php5 かそれ以上のバージョンが必要です。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:5
+msgid "Update your button"
+msgstr "ボタンをアップデートする"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:25
+msgid "Create your button"
+msgstr "ボタンを作る"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:51
+msgid "ex: Just downloaded my twitter background for free from http://viuu.co.uk @pointofviuu. Check it out!"
+msgstr "例：http://viuu.co.uk で無料ツイッターの背景をダウンロードしました。 @pointofviuu。要チェック！"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:91
+msgid "File "
+msgstr "ファイル"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:92
+msgid " was uploaded successfully!"
+msgstr "は無事にアップロードされました。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:100
+msgid "There was an error during file upload"
+msgstr "ファイルのアップロード中にエラーが発生しました。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:149
+msgid "Name of your button shouldn't be empty"
+msgstr "ボタンの名前が空欄になっています。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:159
+msgid "Twitter username"
+msgstr "ツイッターのユーザー名"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:168
+msgid "Type your Twitter username without the"
+msgstr "それ以外のツイッターユーザー名を記入してください"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:177
+msgid "Twitter username can't contain @ # -"
+msgstr " ツイッターのユーザー名に @ # - を使用することができません。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:197
+msgid "Location of your file"
+msgstr "ファイルの保存場所"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:202
+msgid "Tweet"
+msgstr "ツイート"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:209
+msgid "Following fields are required"
+msgstr "次の欄は必須です"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:262
+msgid "Your Twitter username (Required)"
+msgstr "ツイッターのユーザー名　※必須"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:265
+msgid "Enter the twitter account you want the user to follow in exchange of downloading your file. At the completion of the Tweet&Get it! process your visitor becomes follower of the Twitter account you defined."
+msgstr "ファイルをダウンロードする代わりにユーザーでフォローしたいツイッターアカウントを入れてください。Tweet&Get it ! プロセスの完了後、ビジターはあなたのアカウントのフォロワーになります。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:271
+msgid "Your Tweet (Required)"
+msgstr "ツイート　※必須"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:283
+msgid "Write the tweet you want the user to send in exchange of downloading your file. This tweet will be sent automatically each time a visitor completes the Tweet&Get it! process."
+msgstr "ファイルをダウンロードする代わりにユーザーに送るツイートを書いてください。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:286
+msgid "Old file"
+msgstr " 過去のファイル"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:291
+msgid "Your file"
+msgstr "あなたのファイル"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:297
+msgid "Upload your file"
+msgstr "ファイルをアップロードする"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:302
+msgid "Loading"
+msgstr "ローディング中"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:304
+msgid "Or"
+msgstr "もしくは"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:310
+msgid "The URL of your file (Required if you don't want to upload your file)"
+msgstr "ファイルの URL　※ファイルをアップロードしたくない場合必要です"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:313
+msgid "Enter the path of your file. "
+msgstr "ファイルのパスを入力してください。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:317
+msgid "Name of your button (Required)"
+msgstr "ボタンの名前　※必須"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:343
+msgid "About"
+msgstr "About"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:344
+msgid "Help"
+msgstr "ヘルプ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:347
+msgid ""
+"Tweet&Get it! is an automatic process to get Twitter followers in exchange of a downloadable file. Get your shortcodes by setting up your Tweet&Get it! button.\n"
+"Copy/paste the shortcode into posts, pages and widgets. \n"
+"Your Tweet&Get it! button will be immediately available to your visitors."
+msgstr ""
+"Tweet&Get it ! はダウンロードファイルの代わりにツイッタ−のフォローしてもらうための自動的プロセスです。あなたの Tweet&Get it ! ボタンを作ると、ショートコードを受け取ります。\n"
+"そのコードを投稿、ページ、またはウィジェットにコピー＆ペーストします。\n"
+"あなたの Tweet&Get it ! ボタンはすぐにビジターに入手可能になります。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:350
+msgid "Tweet&Get it! is fully recommended to share content such as: music, ebooks, photos, wallpapers, promotional codes, coupons, typography, CMS themes, videos, software, tutorials, web ressources, icons, PSD brushes..."
+msgstr "Tweet&Get it ! は音楽、電子書籍、写真、壁紙、プロモーションコード、クーポン、タイポグラフィ、コンピュータ媒介言語のテーマ、ビデオ、ソフトウェア、チュートリアル、ウェブリソース、アイコン、PSD ブラシをシェアするのに最適です。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:351
+msgid "Get a new follower with each download !"
+msgstr "ダウンロード毎に新しいフォロワーを獲得します。"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:353
+msgid "HELP"
+msgstr "ヘルプ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:355
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:356
+msgid "Support"
+msgstr "サポート"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin.php:357
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin_list.php:134
+msgid "Create a new button"
+msgstr "新しいボタンを作る"
+
+#: /Volumes/TONY/CREA-SITE-LP/tweet&getit/LE-PLUGIN-JP/ok/wordpress/wp-content/plugins/tweet-and-get-it/tweetandgetit_admin_list.php:159
+msgid "powered by"
+msgstr "powered by"
+
+#~ msgid "Manage Your buttons"
+#~ msgstr "あなたのボタンを管理する"

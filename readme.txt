@@ -6,7 +6,7 @@ Author URI: http://tweetandgetit.com/
 Tags: tweet and get it, tweet & get it,twitter followers, marketing viral tools,dynamic twitter widget, Original Tweet Button, sidebar twitter, tweet, tweets, twit, twitter, twitter button, twitter goodies, twitter post, twitter widget, twitter sidebar, twitter tools, Twitter Tweet Button, twitter widget, auto tweet, twitter wordpress plugin,monetize blog, monetize a blog, ways to monetize a blog,monetize blogs, monetizing blogs, monetizing websites, monetization, monetized, monetize, monetize blog, monetize site, monetize website, how to monetize a website, how to monetize website, monetize awebsite, web monetization, online monetization, content monetization, monetizing content, monetize your site, monetize media, digital content monetization, widget for twitter, twitter application, blogger widgets, widget for blog, twitter download, widgets for twitter, get followers on twitter, widget for website, twitter for business, twitter management, more twitter followers free, twitter widgets blogger, buttons for twitter, plugins blog, plugins for website, twitter follow button, tweet plugin, download music, music free download, download mp3 free, download mp3 for free, free ebooks, ebooks free, pdf download, music download, online free mp3, site download mp3
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 Contributors: tweetandgetit	 
 
 Tweet&Get it ! is an automatic process to get Twitter followers in exchange for a downloadable file. 
@@ -76,6 +76,9 @@ target="_blank">Tic Tac News -> Tweet&Get it! Compartilhe arquivos pelo Twitter 
 
 
 == Changelog ==
+
+= Version 1.1.1 =
+New language available: Japanese
 
 = Version 1.1 =
 
