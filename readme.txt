@@ -35,7 +35,7 @@ Get a new follower with each download !!
     - Overview of all your shortcodes
 
     * Easily translate the plugin into your language
-    * Tweet&Get it ! is already available in English, French and German.
+    * Tweet&Get it ! is already available in English, French, German and Japanese.
 	
 Tags: tweet and get it, tweet & get it,twitter followers, marketing viral tools,dynamic twitter widget, Original Tweet Button, sidebar twitter, tweet, tweets, twit, twitter, twitter button, twitter goodies, twitter post, twitter widget, twitter sidebar, twitter tools, Twitter Tweet Button, twitter widget, auto tweet, twitter wordpress plugin,monetize blog, monetize a blog, ways to monetize a blog,monetize blogs, monetizing blogs, monetizing websites, monetization, monetized, monetize, monetize blog, monetize site, monetize website, how to monetize a website, how to monetize website, monetize a website, web monetization, online monetization, content monetization, monetizing content, monetize your site, monetize media, digital content monetization, widget for twitter, twitter application, blogger widgets, widget for blog, twitter download, widgets for twitter, get followers on twitter, widget for website, twitter for business, twitter management, more twitter followers free, twitter widgets blogger, buttons for twitter, plugins blog, plugins for website, twitter follow button, tweet plugin, download music, music free download, download mp3 free, download mp3 for free, free ebooks, ebooks free, pdf download, music download, online free mp3, site download mp3
 	
