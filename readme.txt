@@ -3,7 +3,7 @@ Plugin URI: http://tweetandgetit.com/
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=345MJU6MYCHPJ
 Author: Via Internet UK Ltd.
 Author URI: http://tweetandgetit.com/
-Tags: tweet and get it, tweet & get it,twitter followers, marketing viral tools,dynamic twitter widget, Original Tweet Button, sidebar twitter, tweet, tweets, twit, twitter, twitter button, twitter goodies, twitter post, twitter widget, twitter sidebar, twitter tools, Twitter Tweet Button, twitter widget, auto tweet, twitter wordpress plugin,monetize blog, monetize a blog, ways to monetize a blog,monetize blogs, monetizing blogs, monetizing websites, monetization, monetized, monetize, monetize blog, monetize site, monetize website, how to monetize a website, how to monetize website, monetize awebsite, web monetization, online monetization, content monetization, monetizing content, monetize your site, monetize media, digital content monetization, widget for twitter, twitter application, blogger widgets, widget for blog, twitter download, widgets for twitter, get followers on twitter, widget for website, twitter for business, twitter management, more twitter followers free, twitter widgets blogger, buttons for twitter, plugins blog, plugins for website, twitter follow button, tweet plugin, download music, music free download, download mp3 free, download mp3 for free, free ebooks, ebooks free, pdf download, music download, online free mp3, site download mp3
+Tags: tweet and get it,twitter followers, marketing viral tools,twitter widget, twitter sidebar, twitter tools, monetize blog, more twitter followers free,get twitter followers,free ebooks, pdf download, music download
 Requires at least: 2.8
 Tested up to: 3.2.1
 Stable tag: 1.1.1
@@ -14,7 +14,7 @@ Tweet&Get it ! is an automatic process to get Twitter followers in exchange for 
 == Description ==
 Tweet&Get it ! is an automatic process to get Twitter followers in exchange for a downloadable file. Get your shortcodes by setting up your Tweet&Get it ! buttons. Copy/paste the shortcodes into posts, pages and widgets areas. Your Tweet&Get it ! buttons will immediately be available to your visitors.
 
-Tweet&Get it ! is seriously recommended to share content such as: Music, Ebooks, Photos, Wallpapers, Promotional Codes, Coupons, Typography, CMS Themes, Videos, Software, Tutorials, Web Resources, Icons, PSD Brushes …
+Tweet&Get it ! is seriously recommended to share content such as: Music, Ebooks, Photos, Wallpapers, Promotional Codes, Coupons, Typography, CMS Themes, Videos, Software, Tutorials, Web Resources, Icons, PSD Brushes ...
 
 Get a new follower with each download !!
 
@@ -37,7 +37,7 @@ Get a new follower with each download !!
     * Easily translate the plugin into your language
     * Tweet&Get it ! is already available in English, French, German and Japanese.
 	
-Tags: tweet and get it, tweet & get it,twitter followers, marketing viral tools,dynamic twitter widget, Original Tweet Button, sidebar twitter, tweet, tweets, twit, twitter, twitter button, twitter goodies, twitter post, twitter widget, twitter sidebar, twitter tools, Twitter Tweet Button, twitter widget, auto tweet, twitter wordpress plugin,monetize blog, monetize a blog, ways to monetize a blog,monetize blogs, monetizing blogs, monetizing websites, monetization, monetized, monetize, monetize blog, monetize site, monetize website, how to monetize a website, how to monetize website, monetize a website, web monetization, online monetization, content monetization, monetizing content, monetize your site, monetize media, digital content monetization, widget for twitter, twitter application, blogger widgets, widget for blog, twitter download, widgets for twitter, get followers on twitter, widget for website, twitter for business, twitter management, more twitter followers free, twitter widgets blogger, buttons for twitter, plugins blog, plugins for website, twitter follow button, tweet plugin, download music, music free download, download mp3 free, download mp3 for free, free ebooks, ebooks free, pdf download, music download, online free mp3, site download mp3
+Tags: tweet and get it,twitter followers, marketing viral tools,twitter widget, twitter sidebar, twitter tools, monetize blog, more twitter followers free,get twitter followers,free ebooks, pdf download, music download
 	
 **Videos**
 * Get it started with Tweet&Get it !
@@ -108,7 +108,7 @@ Development version
 
 == Installation ==
 1. Download and unpack the `download-package`.
-2. Upload the “tweet-and-get-it” folder to the `/wp-content/plugins/` directory
+2. Upload the tweet-and-get-it folder to the `/wp-content/plugins/` directory
 3. Activate the plugin in the `Plugins` section in WordPress
 4. Configure the options under Admin Panel `Tweet&Get it ! => Make your button`
 5. Enter the Twitter account you want the user to follow in exchange for the download of your file
@@ -116,8 +116,8 @@ Development version
 7. Upload your file or copy/paste its URL
 8. Click on `Create your button!` and copy/paste the shortcode wherever you want: posts, pages, widgets, excerpts
 9. Then manage your buttons : => Edit your buttons, Delete your buttons, See the shortcodes of each button
-10. You’re good to go :)
-11. Don’t hesitate to check out the FAQ for usage
+10. You are good to go :)
+11. Don't hesitate to check out the FAQ for usage
 
 == Frequently Asked Questions ==
 
@@ -150,17 +150,17 @@ Yes of course!
 
 It is indeed possible. You can upload a file from your hard drive or just give the URL of your file location. 
 
-= I can’t upload my file, what might the problem be? =
+= I can't upload my file, what might the problem be? =
 
-Check if Safe Mode is OFF in your server configuration. If you can’t turn it off or don’t want to mess with it, you can create a tweetandgetit folder manually in your WordPress Uploads. http://myblog/wp-content/uploads/tweetandgetit The folder must be created with 777 chmod permission. Now you should be able to create your Tweet&Get it ! buttons!
+Check if Safe Mode is OFF in your server configuration. If you can't turn it off or don't want to mess with it, you can create a tweetandgetit folder manually in your WordPress Uploads. http://myblog/wp-content/uploads/tweetandgetit The folder must be created with 777 chmod permission. Now you should be able to create your Tweet&Get it ! buttons!
 
-= Safe mode is OFF but I still can’t upload my files? What can I do? =
+= Safe mode is OFF but I still can't upload my files? What can I do? =
 
-Check if there’s a folder called Uploads in your WordPress blog. http://myblog/wp-content/uploads/  If not you have to give the wp-content folder 777 chmod permission so that Tweet&Get it ! can createthe Uploads folder it needs.
+Check if there is a folder called Uploads in your WordPress blog. http://myblog/wp-content/uploads/  If not you have to give the wp-content folder 777 chmod permission so that Tweet&Get it ! can create the Uploads folder it needs.
 
 == Screenshots ==
 1. Make your Tweet&Get it buttons
 2. Manage your buttons
-3. Exemple of a Tweet&Get it button in a blog post
+3. Example of a Tweet&Get it button in a blog post
 4. Send this tweet and follow this account to access the download ! 
 5. Final Step, now you can download your file!
